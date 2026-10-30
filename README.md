@@ -10,6 +10,7 @@ This repository contains my assignment notebooks, data analysis and code for the
 - [Assignment 2: Exploratory Data Analysis (Titanic)](Assignment_2/2_05_Exploratory_Data_Analysis_COMPLETED.ipynb)
 - [Assignment 3: Linear Regression](Assignment_3/4_01_Linear_Regression_COMPLETED.ipynb)
 - [Assignment 3: Logistic Regression](Assignment_3/4_02_Logistic_Regression_COMPLETED.ipynb)
+- [Assignment 3: Decision Trees](Assignment_3/4_01_Decision_Trees_COMPLETED.ipynb)
 
 ## License
 This work is released under the MIT License.
