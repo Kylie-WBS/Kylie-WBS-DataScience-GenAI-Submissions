@@ -11,6 +11,7 @@ This repository contains my assignment notebooks, data analysis and code for the
 - [Assignment 3: Linear Regression](Assignment_3/4_01_Linear_Regression_COMPLETED.ipynb)
 - [Assignment 3: Logistic Regression](Assignment_3/4_02_Logistic_Regression_COMPLETED.ipynb)
 - [Assignment 3: Decision Trees](Assignment_3/4_01_Decision_Trees_COMPLETED.ipynb)
+- [Assignment 4: Random Forest and GBDT](Assignment_4/5_01_Random_Forest_and_GBDT_COMPLETED.ipynb)
 
 ## License
 This work is released under the MIT License.
